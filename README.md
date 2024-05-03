@@ -18,4 +18,4 @@
 
 视频测试
 
-<video src = "video/像机器人一样的关节式腹腔镜手术器械.mp4" controls = "controls" width = "100%" alt = "视频加载失败"/>
+<video src = "https://www.bilibili.com/video/BV1NC411G7oK/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=c2faa89ddb8fa3f41699a1f00140b568" controls = "controls" width = "100%" alt = "视频加载失败"/>
