@@ -6,6 +6,5 @@
 
 ## [我的小站](https://dengkai.fun/)
  
-The best time to plant a tree was ten years ago, followed by now.
 
-种下一棵树最好的时间是十年前，其次是现在。
+世界上只有一种真正的英雄主义，就是认清了生活的真相后还依然热爱它
